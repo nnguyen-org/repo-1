@@ -1,4 +1,4 @@
-push-git:
+push:
 	git add .
-	git commit -m "update"
+	git commit -m "update all"
 	git push
